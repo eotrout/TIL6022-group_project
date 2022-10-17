@@ -1,4 +1,4 @@
-,Period Label,Year,Location,Vessel Type,Median time in port (days),Average age of vessels,Average size (GT) of vessels,Maximum size (GT) of vessels,Average cargo carrying capacity (dwt) per vessel,Maximum cargo carrying capacity (dwt) of vessels,Average container carrying capacity (TEU) per container ship,Maximum container carrying capacity (TEU) of container ships
+,Period Label,Year,Location,Vessel_Type,Median time in port (days),Average age of vessels,Average size (GT) of vessels,Maximum size (GT) of vessels,Average cargo carrying capacity (dwt) per vessel,Maximum cargo carrying capacity (dwt) of vessels,Average container carrying capacity (TEU) per container ship,Maximum container carrying capacity (TEU) of container ships
 0,S1-2018,2018,World,All ships,0.97,18,15222,234006,24074.0,441561.0,3526.0,21413.0
 1,S1-2018,2018,World,Passenger ships,,21,8978,228081,,,,
 2,S1-2018,2018,World,Liquid bulk carriers,0.94,13,15470,234006,26871.0,441561.0,,
